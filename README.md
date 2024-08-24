@@ -26,7 +26,7 @@ git clone
 
 https://github.com/rain-old/python-Keylogger.git
 
-cd repo-name
+cd python-Keylogger
 
 1. Specify the log directory:
 
