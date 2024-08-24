@@ -24,7 +24,7 @@ Usage
 
 git clone
 
-https://github.com/yourusername/repo
+https://github.com/rain-old/python-Keylogger.git
 
 -name.git
 
